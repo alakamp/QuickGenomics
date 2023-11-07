@@ -1,7 +1,7 @@
 Package: QuickGenomics
 Title: Functions for the Fast Computation of Genomic Information
 Version: 0.0.0.9000
-Authors@R:  Andrew Lakamp, alakamp2@unl.edu
+Author:  Andrew Lakamp, alakamp2@unl.edu
 Description: Set of tools for fast(ish) analysis of genomic information. Particularly useful for quantitative genetics and multi-omics.
 License: `use_mit_license()`
 Encoding: UTF-8
